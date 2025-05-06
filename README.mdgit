@@ -1,0 +1,1 @@
+"# Techie"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Muthurangankalyan95/Techie.gitgit push -u origin main
